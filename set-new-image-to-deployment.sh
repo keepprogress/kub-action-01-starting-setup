@@ -1,0 +1,1 @@
+kubectl set image deployment/first-app kub-first-app=keepprogress/kub-first-app:3
